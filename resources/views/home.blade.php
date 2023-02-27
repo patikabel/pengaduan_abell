@@ -20,7 +20,7 @@
             <br><br>
             <div class="d-flex justify-content-center">
                 <div class="col-md-4">
-                    <div class="card" style="width: 18rem; background-color: #FCDDB0">
+                    <div class="card" style="width: 18rem; background-color: #93BFCF">
                         <img src="https://i.pinimg.com/736x/44/95/12/4495124f97de536535464aa6558b4452.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Step-1</h5>
@@ -29,7 +29,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card" style="width: 18rem; background-color: #FCDDB0">
+                    <div class="card" style="width: 18rem; background-color: #93BFCF">
                         <img src="https://i.pinimg.com/736x/f5/5e/30/f55e30d537946cabd521b434009b2d06.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Step-2</h5>
@@ -38,7 +38,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card" style="width: 18rem; background-color: #FCDDB0">
+                    <div class="card" style="width: 18rem; background-color: #93BFCF">
                         <img src="https://i.pinimg.com/236x/16/d7/9f/16d79f4277ef499065916c52f70a9e00.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Step-3</h5>

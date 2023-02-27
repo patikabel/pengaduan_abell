@@ -7,9 +7,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
   </head>
-  <body style="background-color: #FF9F9F">
+  <body style="background-color: #6096B4">
     {{-- navbar --}}
-    <nav class="navbar navbar-expand-lg" style="background-color: #FF9F9F">
+    <nav class="navbar navbar-expand-lg" style="background-color: #6096B4">
         <div class="container">
           <a class="navbar-brand" href="#" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"> <h2><b>P E D U K A T</b></h2></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -17,7 +17,7 @@
           </button>
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-                <a type="button" class="btn" style="background-color: #FFFAD7" href="/login">Log-In</a>
+                <a type="button" class="btn" style="background-color: #BDCDD6" href="/login">Log-In</a>
             </li>
         </ul>
         </div>

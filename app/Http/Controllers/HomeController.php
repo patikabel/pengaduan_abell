@@ -12,4 +12,11 @@ class HomeController extends Controller
             'title' => 'Home | Page'
         ]);
     }
+
+    public function dashboard()
+    {
+        return view('admin.dashboard', [
+            'title' => 'Dashboard | Page '
+        ]);
+    }
 }

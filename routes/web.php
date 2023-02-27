@@ -24,4 +24,11 @@ use App\Http\Controllers\LoginController;
 
 
 Route::get('/', [HomeController::class, 'home']);
-Route::get('login', [LoginController::class, 'login']);
+
+Route::get('dashboard', [HomeController::class, 'dashboard']);
+
+Route::get('login', [LoginController::class, 'login'])->name('login')->middleware('guest');
+Route::post('datalogin', [LoginController::class, 'datalogin'])->name('datalogin');
+
+Route::get('logout', [LoginController::class, 'logout'])->name('logout')->middleware('auth');
+
